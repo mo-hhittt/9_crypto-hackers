@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/crypto-hackers/static/css/main.8c2e58b4.css",
+    "main.js": "/crypto-hackers/static/js/main.7b9eef3d.js",
+    "index.html": "/crypto-hackers/index.html",
+    "main.8c2e58b4.css.map": "/crypto-hackers/static/css/main.8c2e58b4.css.map",
+    "main.7b9eef3d.js.map": "/crypto-hackers/static/js/main.7b9eef3d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8c2e58b4.css",
+    "static/js/main.7b9eef3d.js"
+  ]
+}
